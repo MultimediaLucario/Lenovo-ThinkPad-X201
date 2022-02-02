@@ -1,4 +1,4 @@
-# ThinkPad-X201-Arrandale-macOS-OpenCore
+# Lenovo-ThinkPad-X201
 OpenCore bootloader configuration which allows you to run macOS on ThinkPad X201 with Arrandale CPU and 1st Generation Intel HD graphics (possibly on the t410, t510 and other Arrandale CPU machines too).
 
 <img src="/images/ThinkPad-X201-macOS.jpg" alt="ThinkPad-X201-macOS" height="70%" width="70%">
